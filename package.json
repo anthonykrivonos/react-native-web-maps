@@ -52,6 +52,7 @@
     "react-native-web": "*"
   },
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react-google-maps": "^9.4.5"
   }
 }

@@ -58,5 +58,7 @@ The supported components are:
 ## Examples
 See the [storybook](https://react-native-web-community.github.io/react-native-web-maps/storybook/index.html).
 
-## Contributing
-PRs are welcome!
+## Contributors
+
+- Louis Lagrange
+- Anthony Krivonos
